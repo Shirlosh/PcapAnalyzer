@@ -1,0 +1,4 @@
+src ip,dst ip,src port,dst port,src geo ip,dst geo ip,method,user-agent,uri,host,response code,packets count
+185.243.115.84,172.16.4.205,80,80,Not found,Netherlands,,,,,200,3
+172.16.4.205,31.7.62.214,49255,49255,Not found,Switzerland,POST,NetSupport Manager/1.3,http://31.7.62.214/fakeurl.htm,31.7.62.214,,114
+31.7.62.214,172.16.4.205,443,443,Not found,Switzerland,,,,,200,2
